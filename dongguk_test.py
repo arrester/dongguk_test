@@ -1,5 +1,7 @@
 print("dongguk_test")
 print("test")
 
-print("IT Security")
+def test():
+	print("good test")
+test()
 print("KimJooWon")
